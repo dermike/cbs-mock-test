@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Certified Beer Server Mock Test</title>
+    <link rel="stylesheet" href="css/bootstrap.css" media="all">
+    <link rel="stylesheet" href="css/quiz.css" media="all">
+  </head>
+
+  <body>
+
+    <header class="navbar navbar-default navbar-fixed-top navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" tabindex="-1">&#x1F37A; CBS Mock Test</a>
+        </div>
+      </div>
+    </header>
+
+    <div id="questions" class="container" aria-live="assertive">
+    <div id="alerts" role="alert"></div>
+      
+      <article class="question current" aria-hidden="false">
+        <section>
+          <h2>Certified Beer Server Exam</h2>
+          <p>60 questions, 30 minutes</p>
+          <div class="buttons" role="navigation">
+            <button class="btn btn-primary next right" role="button">Start</button>
+          </div>
+        </section>
+      </article>    
+
+    </div>
+
+    <script src="cbsquestions.js"></script>
+    <script src="js/quiz.min.js"></script>
+  </body>
+</html>

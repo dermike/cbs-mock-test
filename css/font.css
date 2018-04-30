@@ -1,0 +1,5 @@
+@font-face {
+    font-family: LeagueGothic;
+    src: url(https://www.brewdog.com/font/LeagueGothic/leaguegothic-regular.eot);
+    src: url(https://www.brewdog.com/font/LeagueGothic/leaguegothic-regular.eot?#iefix) format('embedded-opentype'), url(https://www.brewdog.com/font/LeagueGothic/leaguegothic-regular.woff) format('woff'), url(https://www.brewdog.com/font/LeagueGothic/leaguegothic-regular.ttf) format('truetype'), url(https://www.brewdog.com/font/LeagueGothic/leaguegothic-regular.svg#webfont) format('svg')
+}
