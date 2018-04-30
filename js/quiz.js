@@ -103,9 +103,6 @@
               setTimeout(() => {
                 qdiv.innerHTML = ending;
               }, 200);
-              if (window.ga && ga.create) {
-                ga('send', 'event', 'Quiz', 'Completed', 'oer-eng');
-              }
             }
           },
 
