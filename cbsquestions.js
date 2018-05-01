@@ -149,7 +149,7 @@
       'answers': [
         { 'answer': 'Bitter' },
         { 'answer': 'Roast' },
-        { 'answer': 'Sout' },
+        { 'answer': 'Sour' },
         { 'answer': 'Sweet' }
       ],
       'correctAnswer': '1',
